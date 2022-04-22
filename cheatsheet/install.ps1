@@ -1,0 +1,1 @@
+choco install fzf navi
